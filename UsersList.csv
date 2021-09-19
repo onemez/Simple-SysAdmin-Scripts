@@ -1,0 +1,9 @@
+DistinguishedName,Department,SamAccountName,Name,GivenName,Surname,UserPrincipalName,City,Enabled,ChangePasswordAtLogon
+"OU=Users,OU=Columbus,OU=CompanyOU,DC=MorePants,DC=gg",Operations,DibberP,Dibber,Dibber,Pines,ShawnM@MorePants.gg,Columbus,$False,$True
+"OU=Users,OU=Columbus,OU=CompanyOU,DC=MorePants,DC=gg",Legal,MabelP,MabelP,Mabel,Pines,LynneB@MorePants.gg,Columbus,$False,$True
+"OU=Users,OU=Columbus,OU=CompanyOU,DC=MorePants,DC=gg",Development,StanP,StanP,Stan,Pines,ClaudeL@MorePants.gg,Columbus,$False,$True
+"OU=Users,OU=Columbus,OU=CompanyOU,DC=MorePants,DC=gg",Finance,LesC,LesC,Les,Claypool,tomt@MorePants.gg,Columbus,$False,$True
+"OU=Users,OU=Columbus,OU=CompanyOU,DC=MorePants,DC=gg",Operations,LarryL,LarryL,Larry,LaLonde,bobj@MorePants.gg,Columbus,$False,$True
+"OU=Users,OU=Columbus,OU=CompanyOU,DC=MorePants,DC=gg",IT,TimA,TimA,Tim,Alexander,todds@MorePants.gg,Columbus,$False,$True
+"OU=Users,OU=Columbus,OU=CompanyOU,DC=MorePants,DC=gg",IT,mmtest,mbtest,Mike,Mez-Test,mmtest@MorePants.gg,Columbus,$True,$False
+"OU=Users,OU=Columbus,OU=CompanyOU,DC=MorePants,DC=gg",IT,mmadmin,mbadmin,Mike,Mez-Admin,mmadmin@MorePants.gg,Chicago,$True,$False

@@ -8,5 +8,8 @@ My focus is to provide tools/scripts that I've used in real production environme
 I'm always excited to learn more and ready for useful feedback. I have a pretty tough hide, but still please try to be nice.
 
 Note: I will always try to give credit to those I've borrowed from, and give full credit when I change very little of the author's original code.
+* Most of this is taken from wonderful Pluralsight courses, MS Learn (previously Virtual Academy) and training books.
+
+  * I am greatly indebted to: Jeffrey Snover, Don Jones, Jeff Hicks, Jason Helmick, Ashley McGlone, Adam Bertram, Michael Bender and so many others. 
 
 Much respect to all the underloved and underappreciated IT Professionals out there working in the trenches! 

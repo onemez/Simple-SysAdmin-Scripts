@@ -14,9 +14,9 @@ In Scrum project management, the project team, led by the project manager, consi
 
 The Scrum methodology is characterized by short phases or “sprints” when project work occurs. During sprint planning, the project team identifies a small part of the scope to be completed during the upcoming sprint, which is usually a two to four week period of time. 
 
-**The key difference between Agile and Scrum** is that while Agile is a project management philosophy that utilizes a core set of values or principles, Scrum is a specific Agile methodology that is used to facilitate a project.
+* **The key difference between Agile and Scrum** is that while Agile is a project management philosophy that utilizes a core set of values or principles, Scrum is a specific Agile methodology that is used to facilitate a project.
 
-While Agile and Scrum often get most of the attention, there are other methodologies you should be aware of.
+*While Agile and Scrum often get most of the attention, there are other methodologies you should be aware of.*
 
 ## Waterfall Project Management is another popular strategy that takes a different approach to project management than Agile. 
 While Agile is an iterative and adaptive approach to project management, Waterfall is linear in nature and doesn’t allow for revisiting previous steps and phases.

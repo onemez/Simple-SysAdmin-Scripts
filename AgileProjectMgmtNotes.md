@@ -1,4 +1,4 @@
-# Some quick notes and defintions on Agile, Scrum, Waterfall and Kanban Project Managment in relation to DevOps
+# Notes and defintions on Agile, Scrum, Waterfall and Kanban Project Managment in relation to DevOps
 
 ## Agile Project Management is a project philosophy or framework that takes an iterative approach towards the completion of a project. 
 

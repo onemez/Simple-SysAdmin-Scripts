@@ -13,3 +13,7 @@ Note: I will always try to give credit to those I've borrowed from, and give ful
   * I am greatly indebted to: Jeffrey Snover, Don Jones, Jeff Hicks, Jason Helmick, Ashley McGlone, Adam Bertram, Michael Bender and so many others. 
 
 Much respect to all the underloved and underappreciated IT Professionals out there working in the trenches! 
+
+# READ
+Many githubbers have done such a better job of providing real-world Admin scripts than I ever could.
+You should following this fine fellow: https://github.com/lazywinadmin/PowerShell
